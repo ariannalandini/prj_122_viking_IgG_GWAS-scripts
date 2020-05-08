@@ -1,0 +1,1 @@
+# prj_122_viking_IgG_GWAS-scripts
